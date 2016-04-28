@@ -19,6 +19,9 @@
                         case '-':
                             out.value = a1.valueAsNumber - a2.valueAsNumber;
                             break;
+                        case '/':
+                            out.value = a1.valueAsNumber / a2.valueAsNumber;
+                            break;
                         default:
                             out.value = 'ERROR';
                     }
@@ -35,6 +38,7 @@
                 <select onchange="calculate()" name="sign">
                     <option value="+" selected="selected">+</option>
                     <option value="-" selected="selected">-</option>
+					<option value="-" selected="selected">/</option>
                 </select>
                 <input onchange="calculate()" name="a2" type="number" step="any" value="1">
                 <output name="out"/>
