@@ -1,8 +1,11 @@
-# Html calcultor
+# Html calculator
 
 Git html calculator application
 
 ## Release
+
+### v3.0.0
+Feature 4: divide
 
 ### v2.0.0
 Subtractions
