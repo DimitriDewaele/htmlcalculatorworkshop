@@ -6,6 +6,7 @@ Git html calculator application
 
 ### v3.0.0
 Feature 3: Multiply
+Feature 4: Divide
 
 ### v2.0.0
 Feature 1: Subtractions.
