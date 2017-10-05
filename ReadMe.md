@@ -4,6 +4,9 @@ Git html calculator application
 
 ## Release
 
+### v4.0.0
+Feature 5: Documentation
+
 ### v3.0.0
 Feature 3: Multiply
 Feature 4: Divide
